@@ -1,0 +1,14 @@
+body {
+    background: gray;
+    font-family: 'Special Elite', cursive;
+}
+#spanl img {
+    height: 100px;
+}
+#spanl {
+    font-size: 40px;
+}
+
+.text_images_and_result img {
+    height: 300px;
+}
